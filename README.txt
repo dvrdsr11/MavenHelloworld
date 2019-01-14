@@ -1,1 +1,2 @@
-This is a sample Maven build for Jenkins
+This is a sample Maven build for Jenkins.
+
